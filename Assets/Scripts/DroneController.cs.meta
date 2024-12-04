@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3ede1d15e5e58aa49a6e1b2e70471a46
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - goal: {instanceID: 0}
+  - markPath: {fileID: 3943306381429304938, guid: 173cf015733f64041b1f5c197273e823, type: 3}
+  - markSubgoal: {fileID: 3943306381429304938, guid: e0dd7509c8d2a0c4395f4c0d7c8dfe26, type: 3}
+  - markSubgoalBest: {fileID: 3943306381429304938, guid: 5ce2bd128d5c4ff4d9065c3dc875ecce, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
